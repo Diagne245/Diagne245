@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diagne245
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development - MERN Stack
 - 🌱 I’m currently learning React UI Library / Framework
 - 💞️ I’m looking to collaborate on Front-End as well as Backend-End projects
 - 📫 How to reach me omardiagne245@gmail.com
